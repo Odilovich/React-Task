@@ -12,11 +12,11 @@ const App = () => {
   
   return (
     <>
-        <Header/>    
-
+        <Header/>
         <main>
             <CardApi data={count}/>
         </main>  
+        <Footer/>
     </>
   );
 };

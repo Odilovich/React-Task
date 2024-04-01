@@ -2,9 +2,11 @@ import "./style.scss";
 
 const index = () => {
     return (
-        <div>
-            
-        </div>
+        <footer>
+            <div className="container">
+            <p>Lesson-5</p>
+            </div>
+        </footer>
     );
 };
 

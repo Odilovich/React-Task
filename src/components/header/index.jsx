@@ -5,7 +5,7 @@ const index = () => {
         <header>
             <div className="container">
                 <div className="header-logo">
-                    <img src="https://c4.wallpaperflare.com/wallpaper/975/1021/255/asus-rog-neon-logo-4k-wallpaper-preview.jpg" alt="logo" />
+                    <a href="#">Logo</a>
                 </div>
                 <nav className="header-nav">
                     <ul>
@@ -17,9 +17,6 @@ const index = () => {
                         </li>
                         <li>
                             <a href="#">Services</a>
-                        </li>
-                        <li>
-                            <a href="#">Portfolio</a>
                         </li>
                         <li>
                             <a href="#">Contact</a>
